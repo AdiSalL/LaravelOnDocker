@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" width="600" alt="Laravel Logo"></a></p>
 
 ![Alya Holding PHP Book](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Alya_holding_PHP_book.jpg?raw=true)
 
