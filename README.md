@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" width="450" alt="Laravel Logo"></a></p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Alya_holding_PHP_book.jpg?raw=true" width="450" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Alya_holding_PHP_book.jpg" width="450" alt="Laravel Logo"></a></p>
 
 
 ## About Laravel
