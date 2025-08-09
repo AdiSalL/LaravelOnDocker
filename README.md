@@ -1,6 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" width="450" alt="Laravel Logo"></a></p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Alya_holding_PHP_book.jpg" width="450" alt="Laravel Logo"></a></p>
 
 
 ## About Laravel
@@ -29,3 +28,4 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Alya_holding_PHP_book.jpg" width="450" alt="Laravel Logo"></a></p>
