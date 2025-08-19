@@ -73,9 +73,5 @@ EXPOSE 9000
 # Switch to www-data user untuk security
 USER www-data
 
-# Tambahkan di akhir Dockerfile
-COPY docker/php/init.sh /usr/local/bin/init.sh
-RUN chmod +x /usr/local/bin/init.sh
-
 # Ganti CMD
-CMD ["/usr/local/bin/init.sh"]
+CMD ["phpfpm"]
